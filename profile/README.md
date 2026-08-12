@@ -1,194 +1,37 @@
-# Endurance Strategic Partners
+# Endurance Topografia e Engenharia
 
-> **[Inserir uma frase curta que represente a empresa]**
+A ENDURANCE TOPOGRAFIA E ENGENHARIA é uma empresa especializada em engenharia, topografia e geotecnologia com forte atuação em todo o Nordeste. 
 
-A **Endurance Strategic Partners** é uma empresa dedicada a **[descrever o principal setor ou área de atuação]**, oferecendo soluções voltadas a **[informar os principais serviços, produtos ou mercados atendidos]**.
+Nossa missão é entregar soluções de engenharia, geotecnologia e inteligência territorial com alta precisão, velocidade e capacidade de execução. Atuamos de forma pragmática para antecipar riscos, eliminar retrabalhos e transformar dados de campo em informações úteis para decisões e projetos executáveis.
 
-Nossa atuação é baseada em **[informar os principais diferenciais, valores ou competências da empresa]**, buscando apoiar clientes e parceiros na obtenção de resultados sustentáveis, eficientes e estratégicos.
+## 🌍 O que fazemos
 
----
+Integramos campo, processamento e engenharia para oferecer soluções completas em diferentes escalas:
 
-## Quem Somos
+* **Geotecnologia e Aerofotogrametria:** Levantamentos avançados com drones, geração de ortofotos, Modelos Digitais de Terreno (MDT), Modelos Digitais de Superfície (MDS), nuvem de pontos e modelagem 3D.
+* **Topografia e Agrimensura:** Levantamentos planialtimétricos cadastrais, georreferenciamento urbano e rural, retificação de matrículas, desmembramentos, locação de obras e batimetria.
+* **Gestão Territorial (SIG e CTM):** Desenvolvimento e implantação de Sistemas de Informações Geográficas (SIG) e Cadastro Técnico Multifinalitário (CTM), centralizando e conectando os dados territoriais do município em um único ambiente digital interativo.
+* **Infraestrutura e Saneamento:** Elaboração de projetos de pavimentação (urbana e rodoviária), terraplenagem, drenagem, e projeto e cadastro de redes de abastecimento de água e sistemas de esgotamento sanitário.
+* **Regularização Fundiária (REURB):** Atuação de ponta a ponta, assumindo todo o processo desde o voo e levantamento topográfico até a vetorização dos lotes e elaboração das plantas e memoriais descritivos.
 
-A Endurance Strategic Partners foi criada em **[ano de fundação]**, com o propósito de **[descrever o propósito inicial da empresa]**.
+## 🚀 Nossa Metodologia de Gestão
 
-Atualmente, atuamos nas áreas de:
+Aplicamos um forte rigor técnico e metodologias avançadas de gestão para garantir eficiência operacional do planejamento à execução:
 
-* **[Área de atuação 1]**
-* **[Área de atuação 2]**
-* **[Área de atuação 3]**
-* **[Área de atuação 4]**
+* **SCRUM e OKR:** Organização ágil das equipes em ciclos curtos, definição clara de prioridades e controle contínuo do avanço das atividades e metas.
+* **Toyotismo e CPM (Critical Path Method):** Foco na redução de esperas e desperdícios, com mapeamento do caminho crítico para concentrar atenção nos pontos que possuem maior impacto no cronograma do projeto.
 
-Nossa experiência reúne profissionais com conhecimentos em **[informar especialidades, setores e competências da equipe]**.
+## 📊 Nossa Força Operacional
 
----
+Trabalhamos com o princípio da "inteligência antes da força", estudando as vulnerabilidades e alternativas do território para não dispersar recursos. Nossos resultados práticos incluem:
 
-## Missão
+* Mapeamento e levantamento de mais de 6.000 propriedades em apenas 30 dias.
+* Levantamentos planialtimétricos completos de municípios inteiros, como em Itaquiraí (MS), fornecendo base sólida para a expansão de infraestruturas.
+* Mais de 400 hectares mapeados e convertidos em dados técnicos estruturados para prefeituras em cidades como Petrolina (PE), Juazeiro (BA) e Itabi (SE).
 
-**[Descrever a razão de existir da empresa e o valor que ela entrega aos clientes.]**
+## 🛠️ Tecnologias e Processamento
 
-Exemplo:
-
-> Oferecer soluções estratégicas e eficientes, contribuindo para o crescimento sustentável de nossos clientes e parceiros.
-
----
-
-## Visão
-
-**[Descrever onde a empresa pretende chegar nos próximos anos.]**
-
-Exemplo:
-
-> Ser reconhecida como referência em seu segmento, destacando-se pela qualidade, inovação e geração de resultados.
+Combinamos uma equipe técnica multidisciplinar, equipamentos de precisão no campo e fluxos estruturados no escritório. No processamento de nossos produtos aerofotogramétricos e de engenharia geomática, aplicamos um rigoroso controle de qualidade sobre métricas e dados de calibração de câmeras no Metashape, assegurando uma acurácia milimétrica nas coordenadas finais de nossos mapas e relatórios técnicos.
 
 ---
-
-## Valores
-
-* **[Valor 1]** — [Breve explicação]
-* **[Valor 2]** — [Breve explicação]
-* **[Valor 3]** — [Breve explicação]
-* **[Valor 4]** — [Breve explicação]
-* **[Valor 5]** — [Breve explicação]
-
-Sugestões de valores:
-
-* Ética
-* Transparência
-* Compromisso
-* Qualidade
-* Inovação
-* Responsabilidade
-* Colaboração
-* Orientação a resultados
-
----
-
-## O Que Fazemos
-
-### [Nome do serviço ou área 1]
-
-[Descrever brevemente o serviço, o público atendido e o resultado entregue.]
-
-### [Nome do serviço ou área 2]
-
-[Descrever brevemente o serviço, o público atendido e o resultado entregue.]
-
-### [Nome do serviço ou área 3]
-
-[Descrever brevemente o serviço, o público atendido e o resultado entregue.]
-
-### [Nome do serviço ou área 4]
-
-[Descrever brevemente o serviço, o público atendido e o resultado entregue.]
-
----
-
-## Nossos Diferenciais
-
-* **[Diferencial 1]** — [Explicação breve]
-* **[Diferencial 2]** — [Explicação breve]
-* **[Diferencial 3]** — [Explicação breve]
-* **[Diferencial 4]** — [Explicação breve]
-
----
-
-## Segmentos Atendidos
-
-Atendemos organizações e profissionais dos seguintes segmentos:
-
-* [Segmento 1]
-* [Segmento 2]
-* [Segmento 3]
-* [Segmento 4]
-* [Segmento 5]
-
----
-
-## Nosso Time
-
-Nossa equipe é formada por profissionais com experiência em **[informar as principais áreas de conhecimento da equipe]**.
-
-### [Nome do profissional]
-
-**Cargo:** [Cargo ou função]
-**Área:** [Área de atuação]
-**Resumo:** [Breve apresentação profissional, formação e responsabilidades.]
-
-### [Nome do profissional]
-
-**Cargo:** [Cargo ou função]
-**Área:** [Área de atuação]
-**Resumo:** [Breve apresentação profissional, formação e responsabilidades.]
-
-### [Nome do profissional]
-
-**Cargo:** [Cargo ou função]
-**Área:** [Área de atuação]
-**Resumo:** [Breve apresentação profissional, formação e responsabilidades.]
-
----
-
-## Projetos e Iniciativas
-
-### [Nome do projeto ou iniciativa]
-
-[Descrever o objetivo, o problema atendido e os principais resultados.]
-
-### [Nome do projeto ou iniciativa]
-
-[Descrever o objetivo, o problema atendido e os principais resultados.]
-
-### [Nome do projeto ou iniciativa]
-
-[Descrever o objetivo, o problema atendido e os principais resultados.]
-
----
-
-## Tecnologias e Ferramentas
-
-Utilizamos tecnologias e ferramentas adequadas às necessidades de cada projeto, incluindo:
-
-* [Tecnologia ou ferramenta 1]
-* [Tecnologia ou ferramenta 2]
-* [Tecnologia ou ferramenta 3]
-* [Tecnologia ou ferramenta 4]
-* [Tecnologia ou ferramenta 5]
-
----
-
-## Parceiros e Clientes
-
-A Endurance Strategic Partners mantém relacionamento com organizações dos setores de **[informar os setores atendidos]**.
-
-> Inserir nesta seção apenas nomes e logotipos cuja divulgação tenha sido previamente autorizada.
-
-* [Parceiro ou cliente 1]
-* [Parceiro ou cliente 2]
-* [Parceiro ou cliente 3]
-
----
-
-## Contato
-
-**Site:** [Inserir endereço do site]
-**E-mail:** [Inserir e-mail institucional]
-**Telefone:** [Inserir telefone]
-**LinkedIn:** [Inserir perfil da empresa]
-**Localização:** [Cidade, Estado e País]
-
----
-
-## Trabalhe Conosco
-
-Tem interesse em fazer parte da Endurance Strategic Partners?
-
-Envie seu currículo ou portfólio para **[inserir e-mail de recrutamento]**, informando sua área de interesse.
-
----
-
-## Aviso
-
-Este perfil apresenta informações institucionais da **Endurance Strategic Partners**.
-
-Os conteúdos, projetos e repositórios publicados nesta organização devem ser revisados e autorizados pelos responsáveis antes de sua divulgação pública.
+*"Problemas devem ser identificados e enfrentados rapidamente. Valorizamos profissionais capazes de assumir responsabilidade, tomar iniciativa e impedir que pequenas dificuldades se transformem em grandes problemas."* — Endurance
